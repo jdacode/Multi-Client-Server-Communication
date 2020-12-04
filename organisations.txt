@@ -1,0 +1,7 @@
+Melbourne www.melbourne.edu.au 199.45.12.3 1245
+Istanbul www.istanbul.com.tr 155.44.32.7 2980
+Larnaca www.larnaca.com.cy 145.78.35.6 499
+London www.london.com.en 186.11.21.1 7893
+Paris www.paris.edu.fr 165.99.25.3 3333
+Athens www.athens.org.gr 178.55.12.2 6789
+Roma www.roma.org 123.56.33.9 1245
