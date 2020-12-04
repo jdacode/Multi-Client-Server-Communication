@@ -317,7 +317,6 @@ listUsers = openFile(fileNameUsers)
 listUsers = onlyOneClientPerName(listUsers)                                   #Add 1 user per name restriction
 listOrganisations = openFile(fileOrganisations)
 host = socket.gethostname()
-#host = '192.168.255.255' #Error
 port = 6666
 address = (host,port)
 bufsize = 1024
